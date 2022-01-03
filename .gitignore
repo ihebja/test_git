@@ -1,0 +1,9 @@
+#ignore .txt
+*.txt
+# except
+!readme.txt
+!/file.txt
+
+build1/
+build2/
+
