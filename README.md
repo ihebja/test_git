@@ -4,4 +4,5 @@ test d'un projet git
 ligne 4 github
 ligne 5 !!
 ligne 6 github
-ligne 6 local
+ligne 7 local
+ligne 8
